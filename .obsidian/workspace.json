@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "90424c75dc26df8d",
+        "id": "aa737cfb924261c2",
         "type": "tabs",
         "children": [
           {
-            "id": "de87821acd89c72f",
+            "id": "4e28a52799e6d07f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "curso.dev/Dia 1/Bem vindo(a)!.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Bem vindo(a)!"
             }
           }
         ]
@@ -69,7 +73,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "curso.dev/Dia 1/Bem vindo(a)!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Links inversos para Bem vindo(a)!"
             }
           },
           {
@@ -107,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "curso.dev/Dia 1/Bem vindo(a)!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída"
+              "title": "Links de saída para Bem vindo(a)!"
             }
           },
           {
@@ -132,17 +139,29 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "curso.dev/Dia 1/Bem vindo(a)!.md"
+              },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de Bem vindo(a)!"
+            }
+          },
+          {
+            "id": "5e8ce9a912cff8d5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,11 +170,16 @@
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de87821acd89c72f",
+  "active": "4e28a52799e6d07f",
   "lastOpenFiles": [
+    "curso.dev/Dia 1.md",
+    "curso.dev/Dia 1/Bem vindo(a)!.md",
+    "curso.dev/Dia 1",
+    "curso.dev",
     "Welcome.md"
   ]
 }
