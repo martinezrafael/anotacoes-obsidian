@@ -1,3 +1,5 @@
-Aqui eu farei as minhas anotações do curso.dev em 2025!
+Bem vindo(a)!
 
-se eu fizer outra alteração?
+Se eu escrever aqui, aparece no vscode
+
+## esse é um subtitulo com h2
