@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "curso.dev/Dia 2/Git? GitHub? É tudo a mesma coisa?.md",
+                "file": "curso.dev/Dia 2/Repositório onde tudo começa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git? GitHub? É tudo a mesma coisa?"
+              "title": "Repositório onde tudo começa"
             }
           }
         ]
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "curso.dev/Dia 2/Git? GitHub? É tudo a mesma coisa?.md",
+                "file": "curso.dev/Dia 2/Repositório onde tudo começa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Git? GitHub? É tudo a mesma coisa?"
+              "title": "Links de saída para Repositório onde tudo começa"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "curso.dev/Dia 2/Git? GitHub? É tudo a mesma coisa?.md"
+                "file": "curso.dev/Dia 2/Repositório onde tudo começa.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de Git? GitHub? É tudo a mesma coisa?"
+              "title": "Sumário de Repositório onde tudo começa"
             }
           },
           {
@@ -175,10 +175,13 @@
   },
   "active": "568a659d21949c82",
   "lastOpenFiles": [
-    "curso.dev/Dia 1/Pista Rápida e Pista Lenta.md",
-    "curso.dev/Dia 2/Git? GitHub? É tudo a mesma coisa?.md",
-    "curso.dev/Dia 2",
+    "others/Curso digitação.md",
+    "curso.dev/Dia 2/Ambiente de Desenvolvimento.md",
+    "curso.dev/Dia 2/Repositório onde tudo começa.md",
     "others/Github Password.md",
+    "curso.dev/Dia 2/Git? GitHub? É tudo a mesma coisa?.md",
+    "curso.dev/Dia 1/Pista Rápida e Pista Lenta.md",
+    "curso.dev/Dia 2",
     "Pasted image 20250102172450.png",
     "curso.dev/Dia 1/Bem vindo(a)!.md",
     "curso.dev/Dia 1/Como estão organizadas as aulas?.md",
