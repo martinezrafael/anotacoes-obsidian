@@ -9,3 +9,4 @@ Coisas que eu gostaria de terno meu escritório
 - Cortina na janela
 - cortina no guarda roupa
 - Ar condicionado portátil
+- Tapete

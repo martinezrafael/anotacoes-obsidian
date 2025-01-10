@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "625ce508e148bdba",
+        "id": "9e5c67588561d8aa",
         "type": "tabs",
         "children": [
           {
-            "id": "e9f0dcd58426cb26",
+            "id": "445c15225ca9f52d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -173,9 +173,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e9f0dcd58426cb26",
+  "active": "445c15225ca9f52d",
   "lastOpenFiles": [
     "escritorio-legal/decoração.md",
+    "others/Github Password.md",
+    "curso.dev/Dia 7/Fazendo novos deploys.md",
+    "curso.dev/Dia 7/Client e Server.md",
+    "curso.dev/Dia 7/Hospedagem e Deploy.md",
+    "curso.dev/Dia 7",
     "curso.dev/Dia 6/Git Push De Novo (mas agora com ainda mais \"força\").md",
     "curso.dev/Dia 6/Fazendo commits de forma mais rápida.md",
     "Pasted image 20250109180403.png",
@@ -185,7 +190,6 @@
     "curso.dev/Dia 6",
     "escritorio-legal",
     "others/Curso digitação.md",
-    "others/Github Password.md",
     "curso.dev/Dia 5/Git Diff e Amend (e a Viagem no Tempo).md",
     "curso.dev/Dia 5/Git Commit (e a Escada Infinita).md",
     "curso.dev/Dia 5/Git Log (e o Jogo dos 7 Erros).md",
